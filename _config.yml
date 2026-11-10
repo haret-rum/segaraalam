@@ -16,7 +16,7 @@ timezone: Asia/Jakarta
 
 title: Segara Alam # the main title
 
-tagline: alias FA Abimanyu # it will display as the subtitle
+tagline: AF Abimanyu # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Mahasiswa Akidah dan Filsafat Islam al-Azhar Kairo. Materialis. Marxis.
@@ -35,7 +35,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: AF Abimanyu # change to your full name
+  name: Segara Alam # change to your full name
   email: abimanyfaishol@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
@@ -45,6 +45,9 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+
+plugins:
+  - jekyll-pandoc
 
 # Site Verification Settings
 webmaster_verifications:
@@ -100,7 +103,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/favicons/web-app-manifest-512x512.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -161,8 +164,18 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
-baseurl: ""
+markdown: Pandoc
+
+pandoc:
+  format: html5
+  extensions:
+    - --citeproc
+    - bibliography: _bibliography/bibliography.bib
+    - csl: _styles/apa.csl
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false    
 
 # ------------ The following options are not recommended to be modified ------------------
 
