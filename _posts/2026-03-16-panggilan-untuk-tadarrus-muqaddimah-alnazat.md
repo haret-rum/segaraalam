@@ -2,7 +2,7 @@
 categories: Catatan
 image:
   path: /assets/img/posts/ResizedImage_2026-03-16_05-57.jpg
-  alt: ""
+  alt: "Husain Muruwwah, penulis al-Naz'at al-Maddiyyah fi al-Falsafah al-'Arabiyyah al-Islamiyyah"
 math: false
 mermaid: false
 toc: false
@@ -50,7 +50,7 @@ Sejak di muqaddimahnya, _al-Naz'āt_ telah memberikan panduan bagi setiap pembac
 
 ## Cara Membaca Turāts
 
-![](/assets/img/posts/ResizedImage_2026-03-16_05-58.jpg)
+![Tiga jilid buku al-Naz'at al-Maddiyyah karya Husain Muruwwah]({{ '/assets/img/posts/ResizedImage_2026-03-16_05-58.jpg' | absolute_url }})
 
 Lebih dari itu, _al-Naz'āt_ memberikan panduan tentang bagaimana _turāts_ pemikiran itu seharusnya dibaca. Mengingat kita melakoni petualangan sejarah dengan membawa persoalan-persoalan masa kini, akankah semestinya kita membaca warisan pemikiran Islam tersebut sebagaimana ulama abad ke-15 membaca pemikiran Ibnu Sina? Itu tentu akan jadi cara baca yang paling kuno dalam membicarakannya. Cara baca seperti itu akan mengubur dan mengabaikan dinamika kehidupan kita di masa kini.
 

@@ -35,7 +35,7 @@ Dmitry Medvedev, wakil ketua Dewan Keamanan Rusia, mengecam Trump atas serangan 
 
 Sebagaimana diungkapkan oleh sebuah saluran telegram Iran: "Sekali lagi AS menyerang saat Iran sedang menempuh jalur diplomasi. Sekali lagi diplomasi tidak mempan berhadapan dengan negara teroris AS."
 
-![](https://www.youtube.com/watch?v=1bGE5mFR5Rg&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1bGE5mFR5Rg" title="Laporan video tentang perang terhadap Iran" loading="lazy" allowfullscreen></iframe>
 
 ## Sebuah Pertunjukan yang Berulang
 

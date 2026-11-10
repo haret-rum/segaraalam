@@ -1,8 +1,5 @@
 ---
 categories: Catatan
-image:
-  path: /assets/img/posts/krisis-lingkungan.jpg
-  alt: ""
 math: false
 mermaid: false
 toc: false
@@ -21,11 +18,11 @@ Mari jagongan:
 
 **Part 1**
 
-![](https://youtu.be/WIGBkLgN8Vw?si=_4oWYzBRVrzV1p3L)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WIGBkLgN8Vw" title="Jagongan 02, bagian 1: Baca Muqoror Aja, Cukup?" loading="lazy" allowfullscreen></iframe>
 
 **Part 2**
 
-![](https://youtu.be/B3yg9Qpu-18?si=yHQ-woirQ6KwcUSl)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B3yg9Qpu-18" title="Jagongan 02, bagian 2: Baca Muqoror Aja, Cukup?" loading="lazy" allowfullscreen></iframe>
 
 ---
 
