@@ -1,5 +1,5 @@
 ---
-categories: The First 30
+categories: First30
 image:
   path: /assets/img/posts/meet-the-writer-vik-bogdanov-tech-storyteller.webp
   alt: ""

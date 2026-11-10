@@ -1,5 +1,5 @@
 ---
-categories: The First 30
+categories: First30
 image:
   path: /assets/img/posts/ezgif-4f2ad5eedafd3447.gif
   alt: ""
