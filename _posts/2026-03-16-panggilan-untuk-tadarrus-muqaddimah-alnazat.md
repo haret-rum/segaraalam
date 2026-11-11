@@ -50,7 +50,7 @@ Sejak di muqaddimahnya, _al-Naz'āt_ telah memberikan panduan bagi setiap pembac
 
 ## Cara Membaca Turāts
 
-![Tiga jilid buku al-Naz'at al-Maddiyyah karya Husain Muruwwah]({{ '/assets/img/posts/ResizedImage_2026-03-16_05-58.jpg' | absolute_url }})
+<a href="/assets/img/posts/ResizedImage_2026-03-16_05-58.jpg"><img src="/assets/img/posts/ResizedImage_2026-03-16_05-58.jpg" alt="Tiga jilid buku al-Naz'at al-Maddiyyah karya Husain Muruwwah"></a>
 
 Lebih dari itu, _al-Naz'āt_ memberikan panduan tentang bagaimana _turāts_ pemikiran itu seharusnya dibaca. Mengingat kita melakoni petualangan sejarah dengan membawa persoalan-persoalan masa kini, akankah semestinya kita membaca warisan pemikiran Islam tersebut sebagaimana ulama abad ke-15 membaca pemikiran Ibnu Sina? Itu tentu akan jadi cara baca yang paling kuno dalam membicarakannya. Cara baca seperti itu akan mengubur dan mengabaikan dinamika kehidupan kita di masa kini.
 

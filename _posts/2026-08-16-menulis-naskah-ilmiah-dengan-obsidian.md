@@ -77,7 +77,7 @@ Apa yang dimaksud dengan penulisan sitasi dengan *pandoc-style*?
 
 Ini merujuk ke persoalan teknis saja dalam penulisannya di markdown. Teknik ini menurut saya kira lebih mudah dan ringkas daripada menggunakan LibreOffice dan Zotero. Dengan cara lama, saya harus memanggil dialog box Zotero terlebih dahulu. Namun, dengan *pandoc-style* saya bisa menulis pengutipan dengan cara mengetik `[@` dan nanti akan keluar opsi-opsinya. 
 
-![Saran otomatis citekey di Obsidian saat mengetik sitasi Pandoc]({{ '/assets/img/posts/image-17.png' | absolute_url }})
+<a href="/assets/img/posts/image-17.png"><img src="/assets/img/posts/image-17.png" alt="Saran otomatis citekey di Obsidian saat mengetik sitasi Pandoc"></a>
 
 `[@muruwwah2021]` hasil rendering tampilannya akan seperti ini, (Muruwwah, 2021). 
 
@@ -117,12 +117,12 @@ Ini tadi jika di Laptop. Adapun di hape, saya mensettingnya hanya cukup dengan m
 - Jika menggunakan CSL JSON sebagai piranti komunikasi Zotero, tekan simbol folder dan pilih CSL JSON yang baru saja diekspor dari Obsidian. Adapun jika menggunakan Zotero API key, bisa masukkan kode key yang sudah disimpan tadi. Pilih salah satu saja cukup.
 - Pilih Citation Style. Di sini saya menggunakan APA 7th.
 
-![Tangkapan layar konfigurasi plugin Pandocit di Obsidian]({{ '/assets/img/posts/Clip_15349.png' | absolute_url }})
+<a href="/assets/img/posts/Clip_15349.png"><img src="/assets/img/posts/Clip_15349.png" alt="Tangkapan layar konfigurasi plugin Pandocit di Obsidian"></a>
 
 - Citation Style Language, pilih Indonesia. 
 - Aktifkan opsi-opsi sebagaimana gambar di bawah.
 
-![Tangkapan layar pengaturan bahasa sitasi di plugin Pandocit]({{ '/assets/img/posts/image-19.png' | absolute_url }})
+<a href="/assets/img/posts/image-19.png"><img src="/assets/img/posts/image-19.png" alt="Tangkapan layar pengaturan bahasa sitasi di plugin Pandocit"></a>
 
 SELESAI!!!
 
