@@ -1,62 +1,46 @@
 @font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-Regular.ttf") format("truetype");
+  font-family: "Libertinus Serif";
+  src: url("../font/LibertinusSerif-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-Medium.ttf") format("truetype");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-SemiBold.ttf") format("truetype");
+  font-family: "Libertinus Serif";
+  src: url("../font/LibertinusSerif-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-Bold.ttf") format("truetype");
+  font-family: "Libertinus Serif";
+  src: url("../font/LibertinusSerif-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-Italic.ttf") format("truetype");
+  font-family: "Libertinus Serif";
+  src: url("../font/LibertinusSerif-Italic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-MediumItalic.ttf") format("truetype");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-SemiBoldItalic.ttf") format("truetype");
+  font-family: "Libertinus Serif";
+  src: url("../font/LibertinusSerif-SemiBoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Ibarra Real Nova";
-  src: url("../font/IbarraRealNova-BoldItalic.ttf") format("truetype");
+  font-family: "Libertinus Serif";
+  src: url("../font/LibertinusSerif-BoldItalic.ttf") format("truetype");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -375,7 +359,7 @@
 }
 
 :root {
-  --font-body: "Ibarra Real Nova", Georgia, serif;
+  --font-body: "Libertinus Serif", Georgia, serif;
   --font-heading: "Parclo Serif Trial", Georgia, serif;
   --font-site-title: "Parclo Serif Trial", Georgia, serif;
   --font-ui: "Montserrat", Arial, sans-serif;
@@ -389,7 +373,7 @@ body,
 }
 
 .content {
-  font-size: 1.2rem;
+  font-size: 1.0rem;
 }
 
 h1,
