@@ -1,46 +1,62 @@
 @font-face {
-  font-family: "Libertinus Serif";
-  src: url("../font/LibertinusSerif-Regular.ttf") format("truetype");
+  font-family: "Cabin";
+  src: url("../font/Cabin-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Libertinus Serif";
-  src: url("../font/LibertinusSerif-SemiBold.ttf") format("truetype");
+  font-family: "Cabin";
+  src: url("../font/Cabin-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cabin";
+  src: url("../font/Cabin-SemiBold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Libertinus Serif";
-  src: url("../font/LibertinusSerif-Bold.ttf") format("truetype");
+  font-family: "Cabin";
+  src: url("../font/Cabin-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Libertinus Serif";
-  src: url("../font/LibertinusSerif-Italic.ttf") format("truetype");
+  font-family: "Cabin";
+  src: url("../font/Cabin-Italic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Libertinus Serif";
-  src: url("../font/LibertinusSerif-SemiBoldItalic.ttf") format("truetype");
+  font-family: "Cabin";
+  src: url("../font/Cabin-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cabin";
+  src: url("../font/Cabin-SemiBoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Libertinus Serif";
-  src: url("../font/LibertinusSerif-BoldItalic.ttf") format("truetype");
+  font-family: "Cabin";
+  src: url("../font/Cabin-BoldItalic.ttf") format("truetype");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -359,7 +375,7 @@
 }
 
 :root {
-  --font-body: "Libertinus Serif", Georgia, serif;
+  --font-body: "Cabin", Georgia, serif;
   --font-heading: "Parclo Serif Trial", Georgia, serif;
   --font-site-title: "Parclo Serif Trial", Georgia, serif;
   --font-ui: "Montserrat", Arial, sans-serif;
@@ -370,10 +386,11 @@
 body,
 .content {
   font-family: var(--font-body);
+  line-height: 1.5;
 }
 
 .content {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
 }
 
 h1,
