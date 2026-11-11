@@ -4,7 +4,7 @@ math: false
 mermaid: false
 toc: false
 pin: false
-author: [Serikat Pekerja Bus Vahed]
+author: Serikat Pekerja Bus Vahed
 description: Selama pemberontakan yang kini terjadi di Iran, perspektif aktivis buruh seharusnya menjadi fokus utama. Namun, karena mereka bertentangan dengan arus utama penghasut perang dan para nostalgis monarki Pahlavi, suara mereka diabaikan baik di media berbahasa Persia maupun media internasional.
 tags: [iran, imperialisme]
 date: 2026-01-12

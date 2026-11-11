@@ -5,7 +5,7 @@ mermaid: false
 toc: false
 pin: false
 title: Enam Poin untuk Menavigasi Kekacauan di Iran
-author: [Vijay Prashad]
+author: Vijay Prashad
 description: Iran sedang dilanda kekacauan. Di seluruh negeri, telah terjadi demonstrasi dengan skala yang beragam, dengan tingkat kekerasan yang meningkat di mana baik demonstran maupun polisi berakhir di kamar mayat. Apa yang awalnya bermula dengan aksi mogok kerja dan protes terhadap inflasi telah menghimpun berbagai bentuk ketidakpuasan, dengan perempuan dan pemuda yang frustrasi terhadap sistem yang tidak mampu menjamin penghidupan mereka. Iran telah berada di bawah blokade ekonomi yang berkepanjangan dan diserang secara langsung oleh Israel dan Amerika Serikat, tidak hanya di dalam perbatasannya, tetapi juga di seluruh Asia Barat (termasuk di wilayah-wilayah diplomatiknya di Suriah). Perang ekonomi yang dilancarkan oleh Amerika Serikat telah menciptakan situasi bagi kekacauan ini, tetapi kekacauan itu sendiri tidak ditujukan kepada Washington, melainkan kepada pemerintah di Tehran.
 tags: [iran, imperialisme]
 date: 2026-01-16

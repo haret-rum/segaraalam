@@ -433,3 +433,21 @@ kbd,
 samp {
   font-family: var(--font-code);
 }
+
+.content a.img-link.left {
+  width: 40%;
+}
+
+.content a.img-link.left img {
+  width: 100%;
+  height: auto;
+}
+
+.content h4 {
+  clear: both;
+}
+
+article > header > .post-meta > span:nth-child(2),
+footer p:last-child {
+  display: none;
+}

@@ -4,7 +4,7 @@ math: false
 mermaid: false
 toc: false
 pin: false
-author: [Keith Jones]
+author: Keith Jones
 tags: [us, iran, imperialisme, demonstrasi]
 title: Demonstrasi di Iran, Agresi Imperialis, dan Perjuangan untuk Kekuasaan Pekerja
 date: 2026-01-12

@@ -7,7 +7,7 @@ math: false
 mermaid: false
 toc: false
 pin: false
-author: [Andre Damon]
+author: Andre Damon
 tags: [iran, trump, us, imperialisme]
 title: Pemerintahan Trump Mengancam Perang Baru Terhadap Iran
 description: Hanya beberapa minggu setelah menyerang Venezuela dan menculik presidennya, Presiden AS Donald Trump mengancam akan melancarkan perang besar baru melawan Iran.
