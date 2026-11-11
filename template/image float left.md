@@ -1,0 +1,1 @@
+<img src="/assets/img/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910964491.png" alt="Sampul modul Pengantar Ekonomi Politik dari Resist Institute" class="left">
