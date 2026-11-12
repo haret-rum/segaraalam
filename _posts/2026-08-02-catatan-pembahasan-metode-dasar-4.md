@@ -6,8 +6,11 @@ toc: true
 pin: false
 title: Catatan Pembahasan Metode Dasar 4
 description: Situasi historis merupakan landasan referensi objektif yang menentukan bentuk dan karakter pemikiran. Apa saja faktor utama bagi ”situasi historis” yang memungkinkan *turāts* Arab-Islam tertentu lahir?
-tags: [tadarrus, nazat]
-date: 2025-08-02
+tags:
+  - tadarrus
+  - nazat
+date: 2026-08-02
+author: Segara Alam
 ---
 
 ## Dua faktor utama ”Situasi Historis”

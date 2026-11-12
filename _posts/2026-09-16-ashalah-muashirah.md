@@ -11,6 +11,7 @@ title: Ashālah/Muʿāshirah
 description: "Salah satu dari kesulitan meneliti *ashālah/muʿāshirah* ialah melacak: bagaimana ia secara metodologis mungkin ada, dan dari pendekatan apakah ia pertama kali muncul? Pertanyaan itu tidak bisa ditemukan dalam artikel-artikel pendek."
 tags: []
 date: 2026-09-16
+author: Segara Alam
 ---
 
 Salah satu dari kesulitan meneliti *ashālah/muʿāshirah* ialah melacak: bagaimana ia secara metodologis mungkin ada, dan dari pendekatan apakah ia pertama kali muncul? Pertanyaan itu tidak bisa ditemukan dalam artikel-artikel pendek. Syukri ʿAyyad, dalam majalah al–Ādāb edisi kedua 1974, memang menulis bahwa kedua istilah itu muncul di permulaan abad ke-20 kemudian menjadi ramai diperbincangkan pada paruh terakhir, namun tulisan ʿAyyad tersebut tidak memberikan jawaban terkait pertanyaan saya di atas. 

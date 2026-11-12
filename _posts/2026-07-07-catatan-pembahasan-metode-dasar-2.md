@@ -7,13 +7,16 @@ pin: false
 title: Catatan Pembahasan Metode Dasar 2
 description: Menurut Muruwwah, pemecahan masalah hubungan antara masa kini Arab (dalam dimensi nasional, sosial dan pemikirannya) dan *turāts* masa lalu hanya dapat diselesaikan dengan mengungkap dua hal berikut
 permalink: catatan-pembahasan-metode-dasar-2
-tags: [tadarrus, nazat]
-date: 2025-07-07
+tags:
+  - tadarrus
+  - nazat
+date: 2026-07-07
+author: Segara Alam
 ---
 
 Ini adalah catatan untuk Tadarrus an-Nazʿāt pada 7 Juli 2026
 
-Menurut Muruwwah, pemecahan masalah hubungan — yang mana latar belakang dari masalah ini telah dijelaskan dalam [[2025-04-07-catatan-pembahasan-metode-dasar-1|pembahasan sebelumnya]] — antara masa kini Arab (dalam dimensi nasional, sosial dan pemikirannya) dan *turāts* masa lalu hanya dapat diselesaikan dengan mengungkap dua hal berikut:
+Menurut Muruwwah, pemecahan masalah hubungan — yang mana latar belakang dari masalah ini telah dijelaskan dalam [[2026-04-07-catatan-pembahasan-metode-dasar-1|pembahasan sebelumnya]] — antara masa kini Arab (dalam dimensi nasional, sosial dan pemikirannya) dan *turāts* masa lalu hanya dapat diselesaikan dengan mengungkap dua hal berikut:
 
 1. Hakikat muatan revolusioner dari gerakan pembebasan nasional Arab di masa kini dan mendatang
 2. Hakikat hubungan esensial antara muatan revolusioner ini dengan posisi revolusioner terhadap *turāts*.
@@ -80,7 +83,7 @@ Perbedaan personal? Tentu saja bukan. Sebab seandainya perbedaan antara satu pen
 
 Menurut Muruwwah, bentuk-bentuk pengetahuan tentang *turāts* yang kadang saling identik, kadang saling berbeda, kadang saling bertentangan satu sama lain itu muncul dari titik berangkat yang bersifat sosial bukan individual, dan bersifat objektif, bukan subjektif.
 
-Berdasarkan investigasi sejarah filsafat yang dilakukan Muruwwah (yang nantinya akan dikaji sebagai [[2025-03-31-tentatif-tadarrus-muqaddimah-alnazat|materi diskusi berikutnya]]), dapat disimpulkan bahwa setiap pengetahuan tentang *turāts* muncul dari posisi ideologis para pemikir.
+Berdasarkan investigasi sejarah filsafat yang dilakukan Muruwwah (yang nantinya akan dikaji sebagai [[2026-03-31-tentatif-tadarrus-muqaddimah-alnazat|materi diskusi berikutnya]]), dapat disimpulkan bahwa setiap pengetahuan tentang *turāts* muncul dari posisi ideologis para pemikir.
 
 Posisi ideologis pemikir pada dasarnya adalah cermin dari posisi kelasnya. Posisi kelas tidak disyaratkan untuk hadir secara langsung, tetapi ia bisa hadir tersembunyi dalam relung pemikiran di mana bentuk pengetahuan tertentu bertopang di atasnya. Ini merupakan hukum umum bagi setiap pengetahuan di setiap *turāts* manusia di peradaban mana pun.
 

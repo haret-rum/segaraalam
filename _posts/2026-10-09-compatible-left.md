@@ -9,8 +9,12 @@ toc: false
 pin: false
 title: Compatible Left
 description: Buat saya, Bagian yang mengasyikkan dari mendiskusikan satu buku bersama adalah saling terbukanya ragam perspektif satu sama lain di dalam forum. Saya jadi memahami perspektif yang sebelumnya tidak saya tangkap. Saya jadi mengerti penekanan satu istilah yang sebelumnya saya lewatkan.
-tags: [marxisme, buku, kebudayaan]
+tags:
+  - marxisme
+  - buku
+  - kebudayaan
 date: 2026-10-09
+author: Segara Alam
 ---
 
 Buat saya, Bagian yang mengasyikkan dari mendiskusikan satu buku bersama adalah saling terbukanya ragam perspektif satu sama lain di dalam forum. Saya jadi memahami perspektif yang sebelumnya tidak saya tangkap. Saya jadi mengerti penekanan satu istilah yang sebelumnya saya lewatkan.

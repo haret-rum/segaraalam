@@ -6,8 +6,11 @@ toc: true
 pin: false
 title: Catatan Pembahasan metode Dasar 3
 description:
-tags: [tadarrus, nazat]
-date: 2025-07-20
+tags:
+  - tadarrus
+  - nazat
+date: 2026-07-20
+author: Segara Alam
 ---
 
 Catatan ini dituliskan pada 20 Juli 2026.
@@ -21,7 +24,7 @@ Pertanyaan tersebut dapat dijawab dengan menguraikan dua masalah berikut:
 
 ## Pendekatan Revolusioner dalam Memahami Turāts
 
-Di [[2025-07-07-catatan-pembahasan-metode-dasar-2|catatan sebelumnya]] telah ditegaskan bahwa beragamnya pengetahuan tentang *turāts* berangkat dari beragamnya landasan pemikiran dan watak ideologisnya. Setiap kelas memiliki ideologinya dan setiap ideologi memiliki berbagai modus dan pendekatan dalam menghasilkan pengetahuannya tentang *turāts*.
+Di [[2026-07-07-catatan-pembahasan-metode-dasar-2|catatan sebelumnya]] telah ditegaskan bahwa beragamnya pengetahuan tentang *turāts* berangkat dari beragamnya landasan pemikiran dan watak ideologisnya. Setiap kelas memiliki ideologinya dan setiap ideologi memiliki berbagai modus dan pendekatan dalam menghasilkan pengetahuannya tentang *turāts*.
 
 Apakah itu ideologi revolusioner yang menjadi fondasi utama *an-Naz'āt*?
 
@@ -75,7 +78,7 @@ Ketika pemikiran para pendahulu itu diabstraksikan/dipisahkan — sebagaiman
 1) bagaimana memahami *turāts* dengan kerangka yang baru
 2) bagaimana mempersanjatai pemahaman yang baru ini untuk membebaskan pemikiran Arab hari ini dari dominasi ideologi yang membebek/turunan (*tābiʿah*) pada pemikiran imperialis dan ideologi borjuis.
 
-Tujuan kedua telah dibahas dengan panjang lebar pada [[2025-04-07-catatan-pembahasan-metode-dasar-1|pembahasan metode dasar I]]. Adapun tujuan pertama, yaitu bagaimana memahami *turāts* dengan kerangka yang baru, ditempuh dengan mula-mula meletakkan konsepsi *turāts* dalam kerangka konseptual yang historis.
+Tujuan kedua telah dibahas dengan panjang lebar pada [[2026-04-07-catatan-pembahasan-metode-dasar-1|pembahasan metode dasar I]]. Adapun tujuan pertama, yaitu bagaimana memahami *turāts* dengan kerangka yang baru, ditempuh dengan mula-mula meletakkan konsepsi *turāts* dalam kerangka konseptual yang historis.
 
 Kerangka konseptual yang historis di sini maksudnya adalah kerangka konseptual pemikiran masyarakat Arab-Islam selama abad pertengahan yang dibasiskan pada hubungannya dengan kesejarahan masyarakat tersebut, dan hubungannya dengan struktur realitas materialnya. 
 
@@ -106,7 +109,7 @@ Konsepsi *turāts* semacam ini menghadirkan kekuatan agensi manusia yang aktif d
 
 Pendekatan yang digunakan Muruwwah dalam *an-Naz'āt* adalah pendekatan materialisme historis.
 
-Kata materialisme tidak berarti bahwa *an-Naz'āt* membatasi objek kajiannya pada pemikiran materialis atau filsafat materialis dan mengabaikan pemikiran dan filsafat idealis. Pembatasan (terhadap objek) yang semacam ini justru merupakan ciri utama dari pendekatan idealis dalam menafsirkan sejarah, khususnya sejarah filsafat — sebagaimana telah diperlihatkan dalam [[2025-07-07-catatan-pembahasan-metode-dasar-2|catatan sebelumnya]].
+Kata materialisme tidak berarti bahwa *an-Naz'āt* membatasi objek kajiannya pada pemikiran materialis atau filsafat materialis dan mengabaikan pemikiran dan filsafat idealis. Pembatasan (terhadap objek) yang semacam ini justru merupakan ciri utama dari pendekatan idealis dalam menafsirkan sejarah, khususnya sejarah filsafat — sebagaimana telah diperlihatkan dalam [[2026-07-07-catatan-pembahasan-metode-dasar-2|catatan sebelumnya]].
 
 Materialisme historis melihat sejarah secara komprehensif dalam semua aspeknya. Sejauh materialisme merupakan bentuk-bentuk historis dari pemikiran, pendekatan materialisme historis akan tetap melihat filsafat idealisme sebanding dengan bagaimana ia melihat filsafat materialisme. Karena baik materialisme maupun idealisme adalah kenyataan historis dalam sejarah filsafat, sedang mengabaikan salah satunya merupakan kecacatan dalam praktik teoretik itu sendiri.
 

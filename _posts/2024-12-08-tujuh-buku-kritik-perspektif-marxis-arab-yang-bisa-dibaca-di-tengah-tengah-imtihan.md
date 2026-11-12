@@ -10,7 +10,11 @@ pin: false
 date: 2024-12-08
 title: Tujuh Buku Kritik Perspektif Marxis Arab yang Bisa Dibaca di Tengah-Tengah Imtihan
 description: Berikut ini buku kritik berperspektif marxis yang dapat dibaca, dari tema yang paling umum dan acak ke yang paling khusus.
-tags: [buku, marxis, pemikirarab]
+tags:
+  - buku
+  - marxis
+  - pemikirarab
+author: Segara Alam
 ---
 
 Sebagian besar masisir yang menggiati dunia pemikiran Islam dan Arab, lebih-lebih mahasiswa baru, biasanya tak jauh-jauh dari pemikiran Hassan Hanafi, Abid Al-Jabiri, Mohammed Arkoun, dan pemikir-pemikir lain yang oleh kabanyakan orang awam disebut pemikir liberal. Pemikiran dan gagasan dari barisan pemikir ini biasanya dibaca dengan penuh kekaguman dan harapan-harapan emansipatif di hadapan tradisi berpikir yang membelenggu. Alasan lainnya mungkin barisan pemikir inilah yang terdengar di Indonesia, khususnya bagi mahasiswa baru yang dekat dengan abang-abangan UIN.

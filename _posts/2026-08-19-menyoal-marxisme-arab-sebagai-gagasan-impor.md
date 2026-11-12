@@ -3,18 +3,19 @@ categories: Esai
 image:
   path: /assets/img/posts/Menyoal Marxisme Arab sebagai Gagasan Impor-1787162264913.png
   alt: ""
-title: "Menyoal Marxisme Arab sebagai Gagasan Impor"
+title: Menyoal Marxisme Arab sebagai Gagasan Impor
 date: 2026-08-19 16:27:34 +03:00
 toc: true
-toc_label: "Daftar Isi"
-description: "Istilah gagasan impor, al-fikr al-mustawrad atau semacamnya seperti al-fikr al-wāfid, al-dakhīl, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam Naqd al-Fikr al-Yawmī (1989) dan Salamah Kaylah dalam al-Nahdhah al-Mujahhadhah (Salamah Kaylah, 2011)."
+toc_label: Daftar Isi
+description: Istilah gagasan impor, al-fikr al-mustawrad atau semacamnya seperti al-fikr al-wāfid, al-dakhīl, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam Naqd al-Fikr al-Yawmī (1989) dan Salamah Kaylah dalam al-Nahdhah al-Mujahhadhah (Salamah Kaylah, 2011).
 tags:
   - marxisme
   - arab
   - impor
   - kolonialisme
   - barat
-reference-section-title: "Daftar Pustaka"
+reference-section-title: Daftar Pustaka
+author: Segara Alam
 ---
 
 ## Marxisme sebagai Gagasan Impor

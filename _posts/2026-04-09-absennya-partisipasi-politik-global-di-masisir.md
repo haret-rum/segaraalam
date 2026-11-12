@@ -7,8 +7,13 @@ pin: false
 title: Absennya Partisipasi Politik Global di Masisir
 description: Mengapa masisir absen dalam isu strategis? Itulah pertanyaan yang diajukan kepada saya agar dikupas dan dipresentasikan dalam acara Diagnosa Masisir, yang diselenggarakan oleh Masisir Movement. Saat memulai berbicara, saya membuat disklaimer terlebih dahulu bahwa sekalipun saya duduk di samping ketua PII dan HMI, namun bukan berarti saya mewakili organisasi tertentu. ABC Marxisme adalah Klub buku yang mengkaji pemikiran-pemikiran marxis. Kehadiran saya sebagai pemantik adalah pengayaan perspektif dan provokasi pemikiran.
 permalink: absennya-partisipasi-politik-global-di-masisir
-tags: [masisir, politik, geopolitik, ppmi]
+tags:
+  - masisir
+  - politik
+  - geopolitik
+  - ppmi
 date: 2026-04-09
+author: Segara Alam
 ---
 
 *Tulisan ini merupakan versi yang disunting dari naskah yang dibawakan dalam acara Diagnosa Masisir, 08 April 2026.*

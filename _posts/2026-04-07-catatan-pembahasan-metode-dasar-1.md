@@ -5,11 +5,13 @@ mermaid: false
 toc: true
 pin: false
 title: Catatan Pembahasan Metode Dasar 1
-author:
+author: Segara Alam
 description:
 aliases: []
-tags: [tadarrus, nazat]
-date: 2025-04-07
+tags:
+  - tadarrus
+  - nazat
+date: 2026-04-07
 ---
 ## Pembuka
 

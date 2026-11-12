@@ -11,17 +11,31 @@
             "id": "ece8f91d3febebcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "_posts/2026-09-18-mindfulness.md",
-                "mode": "source",
-                "source": true
+                "file": "Artikel.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "2026-09-18-mindfulness"
+              "icon": "lucide-table",
+              "title": "Artikel"
+            }
+          },
+          {
+            "id": "514b6d8861d18df2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chirpy.cotes.page/posts/write-a-new-post/",
+                "title": "Writing a New Post | Chirpy",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Writing a New Post | Chirpy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,34 +203,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ece8f91d3febebcd",
+  "active": "514b6d8861d18df2",
   "lastOpenFiles": [
+    "Artikel.base",
+    "_posts/2026-08-02-catatan-pembahasan-metode-dasar-4.md",
+    "_posts/2026-09-01-catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer.md",
+    "_posts/2026-07-20-catatan-pembahasan-metode-dasar-3.md",
+    "_posts/2026-07-07-catatan-pembahasan-metode-dasar-2.md",
+    "_posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction.md",
+    "_posts/2025-04-27-demonstrasi-sebagai-estetika-perlawanan.md",
+    "_posts/2026-04-07-catatan-pembahasan-metode-dasar-1.md",
+    "_posts/2026-03-31-tentatif-tadarrus-muqaddimah-alnazat.md",
+    "_posts/2024-12-16-refleksi-tentang-imperialisme-kekuatan-yang-memporak-porandakan-suriah.md",
+    "_posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan.md",
+    "_tabs/about.md",
+    "_tabs/archives.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_posts/2026-09-18-mindfulness.md",
     "_posts/2026-09-26-perihal-kebudayaan.md",
     "_posts/2026-09-20-5-buku-pengantar-kritik-kapitalisme.md",
     "template/daftar pustaka.md",
     "template/image float left.md",
     "_posts/2026-08-19-menyoal-marxisme-arab-sebagai-gagasan-impor.md",
-    "_posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan.md",
     "tes.md",
     "template",
     "_posts/index.md",
     "_posts/2026-03-06-perang-terhadap-iran-dimanakah-posisi-komunis.md",
     "_posts/2026-01-30-pemerintahan-trump-mengancam-perang-baru-terhadap-iran.md",
-    "_posts/2026-01-16-enam-poin-untuk-menavigasi-kekacauan-di-iran.md",
-    "_posts/2026-01-12-dukungan-untuk-perjuangan-rakyat-sebuah-pernyataan-atas-perkembangan-di-iran.md",
-    "_posts/2026-01-12-demonstrasi-di-iran-agresi-imperialis-dan-perjuangan-untuk-kekuasaan-pekerja.md",
-    "_posts/2026-02-14-25-januari-mitos-penguasa-dan-ingatan-massa.md",
-    "_posts/2026-10-05-saya-dan-marxisme.md",
-    "_posts/2026-09-18-mindfulness.md",
-    "_posts/2026-09-13-mencatat-sebagai-wirid.md",
-    "_posts/2026-11-09-momen-yang-tepat-untuk-pensiun-sebagai-layouter.md",
-    "_posts/2026-10-09-compatible-left.md",
-    "_posts/2026-09-15-agama-dan-modernitas.md",
-    "_posts/2026-09-16-ashalah-muashirah.md",
-    "_posts/2025-09-01-catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer.md",
-    "_posts/2026-02-05-refleksi-gerakan-kiri-bersama-dar-almaraya.md",
-    "_posts/2026-03-16-panggilan-untuk-tadarrus-muqaddimah-alnazat.md",
-    "_posts/2026-04-09-absennya-partisipasi-politik-global-di-masisir.md",
-    "_posts/2026-05-12-selamat-ulang-tahun-afi.md"
+    "_posts/2026-01-16-enam-poin-untuk-menavigasi-kekacauan-di-iran.md"
   ]
 }

@@ -2,15 +2,19 @@
 categories: Catatan
 image:
   path: /assets/img/posts/ResizedImage_2026-03-16_05-57.jpg
-  alt: "Husain Muruwwah, penulis al-Naz'at al-Maddiyyah fi al-Falsafah al-'Arabiyyah al-Islamiyyah"
+  alt: Husain Muruwwah, penulis al-Naz'at al-Maddiyyah fi al-Falsafah al-'Arabiyyah al-Islamiyyah
 math: false
 mermaid: false
 toc: false
 pin: false
 title: Panggilan untuk Tadarrus Muqaddimah al-Nazʹāt
 description: Sekitar seminggu lalu, saya dan pihak pengurus Lakpesdam sama-sama menyetujui diadakannya lingkar diskusi tambahan di luar kegiatan reguler mulai awal bulan April nanti. Buku yang akan ditadarrusi kali ini adalah muqaddimah dari karya monumental Muruwwah berjudul *al-Naz'āt al-Māddiyyah fī al-Falsafah al-ʹArabiyyah al-Islāmiyyah*.
-tags: [buku, klub, tadarrus]
+tags:
+  - buku
+  - klub
+  - tadarrus
 date: 2026-03-16
+author: Segara Alam
 ---
 
 Sekitar seminggu lalu, saya dan pihak pengurus Lakpesdam sama-sama menyetujui diadakannya lingkar diskusi tambahan di luar kegiatan reguler mulai awal bulan April nanti. Buku yang akan ditadarrusi kali ini adalah muqaddimah dari karya monumental Muruwwah berjudul _al-Naz'āt al-Māddiyyah fī al-Falsafah al-ʹArabiyyah al-Islāmiyyah_.

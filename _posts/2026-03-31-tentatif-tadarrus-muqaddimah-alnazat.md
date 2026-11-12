@@ -6,8 +6,11 @@ toc: false
 pin: false
 title: Tentatif Tadarrus Muqaddimah al-Nazʹāt
 description:
-tags: [tadarrus, nazat]
-date: 2025-03-31
+tags:
+  - tadarrus
+  - nazat
+date: 2026-03-31
+author: Segara Alam
 ---
 
 Pengantar tadarrus dapat ditilik di [[2026-03-16-panggilan-untuk-tadarrus-muqaddimah-alnazat|sini]].

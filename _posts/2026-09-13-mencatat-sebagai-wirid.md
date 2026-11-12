@@ -9,8 +9,12 @@ toc: false
 pin: false
 title: Mencatat sebagai Wirid
 description:
-tags: [the-first-30, menulis, mencatat]
+tags:
+  - the-first-30
+  - menulis
+  - mencatat
 date: 2026-09-13
+author: Segara Alam
 ---
 
 Terus terang saja, saya kerap kali menemui kesulitan ketika menulis. Saya tak bisa mengeluarkan kata-kata yang saya pikirkan dengan santai dan tenang. Dari premis satu ia langsung lompat ke premis tiga, ke premis 6 dst. Pada akhirnya apa yang saya tulis rumpang, tidak runtut. 

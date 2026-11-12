@@ -7,7 +7,12 @@ pin: false
 date: 2024-12-16
 title: "Refleksi tentang Imperialisme: Kekuatan yang Memporak-Porandakan Suriah"
 description: Pemerintahan Suriah kini telah beralih di tangan pasukan Islam Fundamentalis, Hay'at al-Tahrir al-Syam (HTS). Bashar al-Assad, presiden yang baru turun itu, mewariskan rakyat Suriah perekonomian yang hancur.
-tags: [imperialisme, marxis, suriah, timurtengah]
+tags:
+  - imperialisme
+  - marxis
+  - suriah
+  - timurtengah
+author: Segara Alam
 ---
 
 Pemerintahan Suriah kini telah beralih di tangan pasukan Islam Fundamentalis, Hay’at al-Tahrir al-Syam (HTS). Bashar al-Assad mewariskan rakyat Suriah perekonomian yang hancur, struktur politik yang kacau balau dan geografi yang terpecah belah. HTS muncul sebagai kekuatan dominan pada minggu lalu dengan kemenangan yang singkat. Bertolak dari Aleppo, mereka dengan sekejap menguasai seluruh kota dan segera menjadi mimpi buruk bagi Al-Assad.

@@ -1,5 +1,5 @@
 ---
-categories: Catatan
+categories: Esai
 math: false
 mermaid: false
 toc: false
@@ -8,7 +8,11 @@ permalink: demonstrasi-sebagai-estetika-perlawanan
 date: 2025-04-27
 title: Demonstrasi Sebagai Seni Perlawanan
 description: Beberapa bulan terakhir, kita menyaksikan bertubi-tubi aksi protes dan demonstrasi merebak di lebih dari lima puluh titik di berbagai wilayah Indonesia. Beragam unsur tergabung dalam demo tersebut, mencakup buruh, dokter, dosen, komunitas ibu-ibu, influencer, dan mahasiswa sebagai barisan terdepan.
-tags: [demonstrasi, estetika, rancière]
+tags:
+  - demonstrasi
+  - estetika
+  - rancière
+author: Segara Alam
 ---
 
 Beberapa bulan terakhir, kita menyaksikan bertubi-tubi aksi protes dan demonstrasi merebak di lebih dari lima puluh titik di berbagai wilayah Indonesia. Beragam unsur tergabung dalam demo tersebut, mencakup buruh, dokter, dosen, komunitas ibu-ibu, *influencer*, dan mahasiswa sebagai barisan terdepan. Tagar #IndonesiaGelap mewakili kesadaran kolektif bahwa tatanan di mana negara ini bertumpu, yang bahkan dipelihara sejak rezim Harto, telah menjatuhkan rakyat Indonesia ke lubang kegelapan.

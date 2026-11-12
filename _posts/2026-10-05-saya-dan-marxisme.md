@@ -9,8 +9,12 @@ toc: false
 pin: false
 title: Saya dan Marxisme
 description: Sudah bertahun-tahun saya hidup di Mesir tapi rasanya seperti baru kemarin sore. Selama itu, satu-satunya hal yang saya sesali adalah mengapa saya baru meminati Marxisme sebagai pemikiran tahun 21
-tags: [marxis, marxisme, refleksi]
+tags:
+  - marxis
+  - marxisme
+  - refleksi
 date: 2026-10-05
+author: Segara Alam
 ---
 
 Sudah bertahun-tahun saya hidup di Mesir tapi rasanya seperti baru kemarin sore. Selama itu, satu-satunya hal yang saya sesali adalah mengapa saya baru meminati Marxisme sebagai pemikiran tahun 21 dan mengapa saya baru menemukan orang-orang di sekeliling saya berminat ke Marxisme tahun 25-an.

@@ -1,8 +1,8 @@
 ---
-categories: Catatan
+categories: Esai
 image:
   path: /assets/img/posts/Picsart_26-09-20_16-01-30-737.jpg
-  alt: "Kolase sampul buku pengantar kritik kapitalisme"
+  alt: Kolase sampul buku pengantar kritik kapitalisme
 math: false
 mermaid: false
 title: 5 Buku Pengantar Kritik Kapitalisme
@@ -14,6 +14,7 @@ tags:
   - marxisme
   - sosialisme
 date: 2026-09-20
+author: Segara Alam
 ---
 
 ### I

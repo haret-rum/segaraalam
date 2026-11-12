@@ -6,8 +6,11 @@ toc: false
 pin: false
 title: Jagongan 01 - Nakba
 description: Kali ini kita ngobrolin Nakba. Nakba adalah peristiwa pengusiran besar-besaran dengan kekerasan luar biasa terhadap penduduk asli Palestina oleh para Zionis. Pengusiran skala besar ini dimulai pada 1947 dan mencapai puncaknya pada 1948. Nakba sendiri secara harfiah berarti ‘malapetaka’ (tetapi perlu diingat bahwa pengalihbahasaan ini tidak menggambarkan keseluruhan makna yang dikandungnya). Nakba adalah pondasi didirikannya israel sebagai sebuah negara.
-tags: [jagongan, palestina]
+tags:
+  - jagongan
+  - palestina
 date: 2026-05-16
+author: Segara Alam
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bqAV_cW_B8M" title="Jagongan 01: Nakba" loading="lazy" allowfullscreen></iframe>

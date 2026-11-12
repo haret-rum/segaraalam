@@ -5,9 +5,10 @@ mermaid: false
 toc: false
 pin: false
 title: Evaluasi Nobar dan Diskusi Film "Pesta Babi"
-author:
+author: Segara Alam
 description: Forum nobar dan diskusi film "Pesta Babi" minggu lalu (25/05) ditanggapi oleh salah satu peserta yang mengaku aktivis sebagai forum curhatan belaka, yang tak berbeda dari gosip. Hanya pertukaran simpati dan seterusnya.
-tags: [masisir]
+tags:
+  - masisir
 date: 2026-06-03
 ---
 

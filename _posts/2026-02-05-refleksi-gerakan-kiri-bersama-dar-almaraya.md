@@ -12,7 +12,10 @@ description: Pada Minggu, 1 Februari, diselenggarakan sebuah nadwah bertajuk “
 permalink: refleksi-gerakan-kiri-bersama-dar-almaraya
 publish: true
 date: 2026-02-05
-tags: [marxis, massa]
+tags:
+  - marxis
+  - massa
+author: Segara Alam
 ---
 
 Pada Minggu, 1 Februari, diselenggarakan sebuah *nadwah* bertajuk _“Mustaqbal al-Yasār wa al-‘Amal al-‘Āmm fī Miṣr”_ di [Dār al-Marāya](https://revsoc.me/politics/51152/). Diskusi ini menghadirkan sejumlah tokoh penting dalam spektrum gerakan kiri di Mesir, di antaranya [Khaled Ali](https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%B9%D9%84%D9%8A#), [Muna Meena](https://ar.wikipedia.org/wiki/%D9%85%D9%86%D9%89_%D9%85%D9%8A%D9%86%D8%A7), [Akram Ismail](https://www.fakartany.net/2024/03/26/%D8%A7%D9%84%D9%8A%D8%B3%D8%A7%D8%B1-%D8%A3%D9%83%D8%B1%D9%85-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D9%81%D9%8A-%D8%AD%D9%88%D8%A7%D8%B1-%D8%AE%D8%A7%D8%B5/), [Hisham Fouad](https://revsoc.me/politics/39980/), dan [Elhamy Mirgani](https://alsifr.org/authors/elhami-el-mirgani), serta dipandu oleh Jurnalis Mada Masr [Mai Qabil](https://www.madamasr.com/contributor/%D9%85%D9%8A-%D9%82%D8%A7%D8%A8%D9%8A%D9%84/). *Nadwah* ini mencoba untuk membaca kemungkinan masa depan gerakan kiri di Mesir dalam lanskap politik terkini.

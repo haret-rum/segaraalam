@@ -1,5 +1,5 @@
 ---
-categories: Catatan
+categories: Esai
 image:
   path: /assets/img/posts/Pasted image 20260926163137.jpg
   alt: ""
@@ -9,8 +9,12 @@ toc: false
 pin: false
 title: Perihal Kebudayaan
 description: Seperti kata Afi dalam reelsnya, “kita lebih sering menemukan aneka pertunjukan dalam bentuk pagelaran. Ada tarian dengan baju adat, musik tradisional…media-media meliput dan kemudian kita merasakan kemeriahan itu lewat layar ponsel kita.” Tari-tarian tradisional adalah bagian dari kebudayaan yang dibentuk di masa lalu, kemudian menjadi residual di masa kini setelah diinkorporasi oleh kebudayaan dominan sebagai pertunjukan. Kebudayaan dominan memperlakukan tari-tarian tradisional sebagai yang bisa dinikmati sebagai pengalaman estetik, dikomersilkan, dipamerkan sebagai subjek eksotis, dan dipisahkan dari muatan politiknya.
-tags: [kebudayaan, kultural, marxisme]
+tags:
+  - kebudayaan
+  - kultural
+  - marxisme
 date: 2026-09-26
+author: Segara Alam
 ---
 
 ## I

@@ -9,6 +9,7 @@ title: Selamat Ulang Tahun, Afi
 tags: []
 publish: true
 date: 2026-05-12
+author: Segara Alam
 ---
 
 Selamat ulang tahun yang ke-25, sayang. Kini kau telah memasuki seperempat abad, dan waktu terasa sangat cepat. 

@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.inFolder("_posts")
+    order:
+      - file.name
+      - file.basename
+      - title
+      - date
+      - categories
+      - author
+      - description
+      - authors
+    sort:
+      - property: file.basename
+        direction: ASC
+    columnSize:
+      file.name: 121
+      file.basename: 271

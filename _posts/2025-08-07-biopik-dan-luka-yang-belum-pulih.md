@@ -1,5 +1,5 @@
 ---
-categories: Catatan
+categories: Esai
 math: false
 mermaid: false
 toc: false
@@ -8,7 +8,11 @@ publish: true
 date: 2025-08-07
 title: Biopik dan Luka yang Belum Pulih
 description: Sabtu (2/8) menjelang petang lalu, Aula KSW disulap jadi bioskop kecil, diokupasi sebagai ruang diskusi, memperbincangkan empat film dokumenter dalam serial Buried Chapters (babak-babak yang dikuburkan) garapan Kurawal Foundation dan Talamedia. Dengan tajuk “Biopik” atau Bioskop Politik, teman-teman dari berbagai komunitas yang tergabung dalam program “5W1H Situasi Politik Rakyat Indonesia” berusaha membangkitkan kembali ingatan kolektif masisir.
-tags: [film, gestapu, kekerasan98]
+tags:
+  - film
+  - gestapu
+  - kekerasan98
+author: Segara Alam
 ---
 
 Sabtu (2/8) menjelang petang lalu, Aula KSW disulap jadi bioskop kecil, diokupasi sebagai ruang diskusi, memperbincangkan empat film dokumenter dalam serial *Buried Chapters* (babak-babak yang dikuburkan) garapan Kurawal Foundation dan Talamedia. Dengan tajuk “Biopik” atau Bioskop Politik, teman-teman dari berbagai komunitas yang tergabung dalam program “5W1H Situasi Politik Rakyat Indonesia” berusaha membangkitkan kembali ingatan kolektif, melakukan memorialisasi, melalui media film.
