@@ -5,7 +5,11 @@ mermaid: false
 toc: false
 pin: false
 author: Keith Jones
-tags: [us, iran, imperialisme, demonstrasi]
+tags:
+  - us
+  - iran
+  - imperialisme
+  - demonstrasi
 title: Demonstrasi di Iran, Agresi Imperialis, dan Perjuangan untuk Kekuasaan Pekerja
 date: 2026-01-12
 description: Kaum buruh Iran tidak dapat menahan penindasan imperialis maupun kemiskinan ekonomi dan penindasan politik yang dilakukan oleh Republik Islam. Mereka harus bertindak sebagai kekuatan politik independen yang menentang imperialisme, semua lembaga Republik Islam, dan semua faksi borjuasi Iran.

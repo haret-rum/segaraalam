@@ -19,20 +19,6 @@
               "icon": "lucide-table",
               "title": "Artikel"
             }
-          },
-          {
-            "id": "93d52b5e3475fd41",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://segara-alam.my.id/posts/catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer/",
-                "title": "Catatan Investigasi Sejarah Filsafat Arab-Islam Kontemporer | Segara Alam",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Catatan Investigasi Sejarah Filsafat Arab-Islam Kontemporer | Segara Alam"
-            }
           }
         ]
       }
@@ -204,35 +190,42 @@
   },
   "active": "ece8f91d3febebcd",
   "lastOpenFiles": [
+    "assets/img/posts/nahdlah.jpg",
+    "_posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan.md",
+    "assets/img/posts/naqd.jpg",
+    "Artikel.base",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303492.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303490.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303487.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303481.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303469.jpg",
+    "_posts/2024-02-12-proto-materialisme-dialektika-historis-ibnu-khaldun.md",
+    "_posts/2025-09-04-aksi-massa-dan-ormas-islam.md",
+    "_posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme.md",
+    "_posts/2025-08-07-biopik-dan-luka-yang-belum-pulih.md",
+    "_posts/2025-04-27-demonstrasi-sebagai-estetika-perlawanan.md",
+    "assets/img/posts/2026-09-20-5.md",
+    "_posts/2025-04-10-ada-langkah-apa-prabowo-datang-lagi-ke-timur-tengah.md",
+    "_posts/2024-12-23-menyalami-prabowo-dan-gagal-paham-politik-kerakyatan.md",
+    "_posts/2024-12-16-refleksi-tentang-imperialisme-kekuatan-yang-memporak-porandakan-suriah.md",
+    "_posts/2024-02-16-sikap-ilmiah-ibnu-khaldun.md",
+    "_posts/2024-01-13-karena-dalam-sejarah-ilmu-tentang-umran-adalah-perlu.md",
+    "_posts/2024-01-05-kritik-ibnu-khaldun-terhadap-sejarah-yang-empiris.md",
+    "_posts/2023-12-13-mamsha-ahl-mishr-melepas-beban-stres-di-atas-kesengsaraan-orang-lain.md",
+    "_posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i.md",
+    "_posts/2026-10-09-compatible-left.md",
+    "_posts/2026-05-16-jagongan-01-nakba.md",
+    "assets/img/posts/2025-09-04-aksi-massa-dan-ormas-islam-1787211743709.png",
+    "assets/img/posts/2025-08-07-biopik-dan-luka-yang-belum-pulih-1787210383547.jpg",
+    "assets/img/posts/2025-04-27-demonstrasi-sebagai-seni-perlawanan-1787210765768.jpg",
     "_posts/2026-09-30-krisis-kebudayaan-atau-krisis-rezim.md",
     "_posts/2026-09-30-krisis-kebudayaan-adukan-semen.md",
     "_posts/2026-09-30-hubungan-musykil-antara-mutsaqqaf-dan-kekuasaan.md",
-    "Artikel.base",
     "_posts/2026-11-09-momen-yang-tepat-untuk-pensiun-sebagai-layouter.md",
-    "assets/img/posts/Hubungan Musykil antara Mutsaqqaf dan Kekuasaan Politik-1790764698894.jpg",
-    "assets/img/posts/1001114340.jpg",
-    "assets/img/posts/1001114360.png",
     "_posts/2026-08-02-catatan-pembahasan-metode-dasar-4.md",
     "_posts/2026-09-01-catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer.md",
     "_posts/2026-07-20-catatan-pembahasan-metode-dasar-3.md",
     "_posts/2026-07-07-catatan-pembahasan-metode-dasar-2.md",
-    "_posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction.md",
-    "_posts/2025-04-27-demonstrasi-sebagai-estetika-perlawanan.md",
-    "_posts/2026-04-07-catatan-pembahasan-metode-dasar-1.md",
-    "_posts/2026-03-31-tentatif-tadarrus-muqaddimah-alnazat.md",
-    "_posts/2024-12-16-refleksi-tentang-imperialisme-kekuatan-yang-memporak-porandakan-suriah.md",
-    "_posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan.md",
-    "_tabs/about.md",
-    "_tabs/archives.md",
-    "_tabs/tags.md",
-    "_tabs/categories.md",
-    "_posts/2026-09-18-mindfulness.md",
-    "_posts/2026-09-26-perihal-kebudayaan.md",
-    "_posts/2026-09-20-5-buku-pengantar-kritik-kapitalisme.md",
-    "template/daftar pustaka.md",
-    "template/image float left.md",
-    "_posts/2026-08-19-menyoal-marxisme-arab-sebagai-gagasan-impor.md",
-    "tes.md",
     "template"
   ]
 }
