@@ -6,15 +6,14 @@ excerpt: "Dalam hutan belantara tanda tanya itu, teks al-Alim tetap mengingatkan
 author: I. S. Savirta
 toc: false
 layout: post
-categories:
-  - Esai
+categories: Esai
 tags:
   - kebudayaan
   - kekuasaan
   - politik
   - rezim
   - krisis
-image: 
+image:
   path: /assets/img/posts/1001114360.png
   alt: ""
 ---

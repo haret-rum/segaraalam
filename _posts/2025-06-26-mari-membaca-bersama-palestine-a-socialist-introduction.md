@@ -11,7 +11,6 @@ tags:
   - marxis
   - palestina
   - klub
-author:
 ---
 
 Di bulan mendatang, ABC Marxisme akan beristirahat sejenak dari teks-teks klasik Marx. Tahun lalu, kami sibuk menguliti Das Kapital. Kemudian bulan Ramadhan silam kami menyelingi ibadah kami dengan tadarrus Manifesto Komunis. Sekarang, semakin gelapnya situasi di Palestina mendorong kami untuk mengkaji dan utamanya, mempersenjatai solidaritas kami untuk Palestina dengan pemikiran-pemikiran politik dalam perspektif sosialis. Dan pintu pertama yang hendak kami masuki adalah sebuah buku pengantar berjudul **“Palestine: A Socialist Introduction”** yang ditulis oleh para aktivis Palestina dan disunting oleh Sumaya Awad dan Brian Bean. Teman-teman budiman boleh sekali bergabung di ABC Marxisme ini: [download ebook](https://www.haymarketbooks.org/books/1558-palestine-a-socialist-introduction)  dan daftar dengan mengisi [formulir ini](https://docs.google.com/forms/d/e/1FAIpQLSf6tp0L6DoTnBHyyGPLq6KGcEC9q-U5vtOe7tEWv_F2Z-fJgA/viewform?usp=header).

@@ -19,6 +19,20 @@
               "icon": "lucide-table",
               "title": "Artikel"
             }
+          },
+          {
+            "id": "b186345e072e603e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme"
+            }
           }
         ]
       }
@@ -190,18 +204,23 @@
   },
   "active": "ece8f91d3febebcd",
   "lastOpenFiles": [
+    "_posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i.md",
+    "Artikel.base",
+    "_posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction.md",
+    "_posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme.md",
+    "assets/img/posts/2024-12-23-menyalami-prabowo-dan-gagal-paham-politik-kerakyatan-1787211408629.webp",
+    "assets/img/posts/2024-12-16-refleksi-tentang-imperialisme-kekuatan-yang-memporak-porandakan-suriah-1787049252256.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303499.jpg",
+    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303495.jpg",
     "assets/img/posts/nahdlah.jpg",
     "_posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan.md",
     "assets/img/posts/naqd.jpg",
-    "Artikel.base",
     "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303492.jpg",
     "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303490.jpg",
     "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303487.jpg",
-    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303481.jpg",
-    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303469.jpg",
     "_posts/2024-02-12-proto-materialisme-dialektika-historis-ibnu-khaldun.md",
     "_posts/2025-09-04-aksi-massa-dan-ormas-islam.md",
-    "_posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme.md",
     "_posts/2025-08-07-biopik-dan-luka-yang-belum-pulih.md",
     "_posts/2025-04-27-demonstrasi-sebagai-estetika-perlawanan.md",
     "assets/img/posts/2026-09-20-5.md",
@@ -212,12 +231,8 @@
     "_posts/2024-01-13-karena-dalam-sejarah-ilmu-tentang-umran-adalah-perlu.md",
     "_posts/2024-01-05-kritik-ibnu-khaldun-terhadap-sejarah-yang-empiris.md",
     "_posts/2023-12-13-mamsha-ahl-mishr-melepas-beban-stres-di-atas-kesengsaraan-orang-lain.md",
-    "_posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i.md",
     "_posts/2026-10-09-compatible-left.md",
     "_posts/2026-05-16-jagongan-01-nakba.md",
-    "assets/img/posts/2025-09-04-aksi-massa-dan-ormas-islam-1787211743709.png",
-    "assets/img/posts/2025-08-07-biopik-dan-luka-yang-belum-pulih-1787210383547.jpg",
-    "assets/img/posts/2025-04-27-demonstrasi-sebagai-seni-perlawanan-1787210765768.jpg",
     "_posts/2026-09-30-krisis-kebudayaan-atau-krisis-rezim.md",
     "_posts/2026-09-30-krisis-kebudayaan-adukan-semen.md",
     "_posts/2026-09-30-hubungan-musykil-antara-mutsaqqaf-dan-kekuasaan.md",
@@ -225,7 +240,6 @@
     "_posts/2026-08-02-catatan-pembahasan-metode-dasar-4.md",
     "_posts/2026-09-01-catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer.md",
     "_posts/2026-07-20-catatan-pembahasan-metode-dasar-3.md",
-    "_posts/2026-07-07-catatan-pembahasan-metode-dasar-2.md",
     "template"
   ]
 }

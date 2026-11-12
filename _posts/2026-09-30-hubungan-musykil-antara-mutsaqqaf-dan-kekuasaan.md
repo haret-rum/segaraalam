@@ -3,7 +3,7 @@ title: Hubungan Musykil Mutsaqqaf dan Kekuasaan
 date: 2026-09-30 13:35:53 +03:00
 description: Esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan.
 excerpt: Esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan.
-author: Mahmud Amin al-'Alim
+author: Mahmud Amin al-Alim
 toc: true
 categories:
   - Terjemahan

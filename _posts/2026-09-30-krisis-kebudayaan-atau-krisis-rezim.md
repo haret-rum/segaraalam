@@ -3,7 +3,7 @@ title: Krisis Kebudayaan atau Krisis Rezim!
 date: 2026-09-30 13:40:39 +03:00
 description: Awal abad kita ini, tepatnya pada Juli 1903, di Kairo terbit sebuah novel anggitan pemikir-sastrawan Farah Anton yang berjudul “Agama, Pengetahuan, dan Harta”. Kata “Novel” sebenarnya adalah penggunaan majas, atau “supaya mudah” kita ucapkan; sebagaimana ia katakan sendiri dalam pembuka bukunya.
 excerpt: Awal abad kita ini, tepatnya pada Juli 1903, di Kairo terbit sebuah novel anggitan pemikir-sastrawan Farah Anton yang berjudul “Agama, Pengetahuan, dan Harta”. Kata “Novel” sebenarnya adalah penggunaan majas, atau “supaya mudah” kita ucapkan; sebagaimana ia katakan sendiri dalam pembuka bukunya.
-author: Mahmud Amin al-'Alim
+author: Mahmud Amin al-Alim
 toc: true
 categories: Terjemahan
 tags:
