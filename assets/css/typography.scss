@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
 @font-face {
   font-family: "Cabin";
   src: url("../font/Cabin-Regular.ttf") format("truetype");
@@ -375,22 +377,25 @@
 }
 
 :root {
-  --font-body: "Cabin", Arial, sans-serif;
+  /* Font lokal yang sudah ada */
   --font-heading: "Parclo Serif Trial", Georgia, serif;
   --font-site-title: "Parclo Serif Trial", Georgia, serif;
-  --font-ui: "Montserrat", Arial, sans-serif;
-  --font-table: "Montserrat", Arial, sans-serif;
+  --font-ui: "Reddit Sans", "Montserrat", Arial, sans-serif;
+  --font-table: "Reddir Sans", "Montserrat", Arial, sans-serif;
   --font-code: "0xProto", Consolas, monospace;
-}
+
+  /* Font Google Baru */
+  --font-body: "Alegreya Sans", "Cabin", Arial, sans-serif; /* Ganti ke Alegreya Sans */
+} 
 
 body,
 .content {
   font-family: var(--font-body);
+  font-weight: 300;
   line-height: 1.5;
-}
-
-.content {
-  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
