@@ -1,8 +1,8 @@
 ---
 categories: Catatan
-math: false
+math: true
 mermaid: false
-toc: false
+toc: true
 pin: false
 title: Menulis Naskah Ilmiah dengan Obsidian
 description: Dalam satu tahun terakhir, saya mengerjakan setiap urusan tulis menulis dan catat mencatat di Obsidian. Mulai dari menulis esai, makalah, catatan harian, catatan literatur, catatan kelas, outline, tugas sehari-hari, daftar buku yang ingin dibaca, daftar buku yang selesai dibaca, daftar kebutuhan rumah, dan lain-lain.
@@ -96,9 +96,9 @@ Hal ini menjadi mungkin dengan saya menginput data CSL JSON, yang merupakan file
 Bagaimana cara mengekspor database referensi ke CSL JSON?
 
 Yaitu dengan Plugin Better Bibtex di Zotero. Plugin BetterBibtex memungkinkan saya untuk melakukan ekspor CSL JSON, tapi database yang dikandungnya tetap update ketika saya melakukan semua perubahan di Zotero. Misal, saya mengganti tahun buku Muruwwah tadi di Zotero. Perubahan yang barusan saya lakukan akan tersinkron di CSL JSON. 
-
-> [!tip] 
+ 
 > Untuk menginstall Better Bibtex:
+>
 > 1. Unduh paket Better Bibtex di [sini](https://github.com/retorquere/zotero-better-bibtex/releases)
 > 2. Buka Zotero, pilih menu `Tools` → `Plugins`
 > 3. Tekan simbol gir di kanan atas dan pilih `Install Plugin From File...`
@@ -106,8 +106,8 @@ Yaitu dengan Plugin Better Bibtex di Zotero. Plugin BetterBibtex memungkinkan sa
 
 Ini tadi jika di Laptop. Adapun di hape, saya mensettingnya hanya cukup dengan memasukkan Zotero API key.
 
-> [!TIP]
 > Untuk menambahkan API key Zotero bisa dengan cara berikut:
+>
 > 1. Masuk ke akun Zotero via browser
 > 2. Buka [tautan ini](https://www.zotero.org/settings/keys)
 > 3. Pilih `Create a New Key` dan izinkan Read/Write Access
