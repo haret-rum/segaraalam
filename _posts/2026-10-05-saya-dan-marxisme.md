@@ -14,7 +14,7 @@ tags:
   - marxisme
   - refleksi
 date: 2026-10-05
-author: Segara Alam
+author:
 ---
 
 Sudah bertahun-tahun saya hidup di Mesir tapi rasanya seperti baru kemarin sore. Selama itu, satu-satunya hal yang saya sesali adalah mengapa saya baru meminati Marxisme sebagai pemikiran tahun 21 dan mengapa saya baru menemukan orang-orang di sekeliling saya berminat ke Marxisme tahun 25-an.

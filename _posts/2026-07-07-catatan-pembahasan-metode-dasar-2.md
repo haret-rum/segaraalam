@@ -11,7 +11,7 @@ tags:
   - tadarrus
   - nazat
 date: 2026-07-07
-author: Segara Alam
+author:
 ---
 
 Ini adalah catatan untuk Tadarrus an-Nazʿāt pada 7 Juli 2026

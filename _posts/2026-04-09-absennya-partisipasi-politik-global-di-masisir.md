@@ -13,7 +13,7 @@ tags:
   - geopolitik
   - ppmi
 date: 2026-04-09
-author: Segara Alam
+author:
 ---
 
 *Tulisan ini merupakan versi yang disunting dari naskah yang dibawakan dalam acara Diagnosa Masisir, 08 April 2026.*

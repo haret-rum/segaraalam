@@ -9,7 +9,7 @@ description: Dalam satu tahun terakhir, saya mengerjakan setiap urusan tulis men
 tags:
   - obsidian
 date: 2026-08-16
-author: Segara Alam
+author:
 ---
 
 Dalam satu tahun terakhir, saya mengerjakan setiap urusan tulis menulis dan catat mencatat di Obsidian. Mulai dari menulis esai, makalah, catatan harian, catatan literatur, catatan kelas, outline, tugas sehari-hari, daftar buku yang ingin dibaca, daftar buku yang selesai dibaca, daftar kebutuhan rumah, dan lain-lain. 

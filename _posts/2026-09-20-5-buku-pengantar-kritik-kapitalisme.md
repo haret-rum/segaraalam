@@ -14,7 +14,7 @@ tags:
   - marxisme
   - sosialisme
 date: 2026-09-20
-author: Segara Alam
+author:
 ---
 
 ### I

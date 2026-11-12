@@ -14,7 +14,7 @@ tags:
   - kultural
   - marxisme
 date: 2026-09-26
-author: Segara Alam
+author:
 ---
 
 ## I

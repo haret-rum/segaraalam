@@ -15,7 +15,7 @@ tags:
   - kolonialisme
   - barat
 reference-section-title: Daftar Pustaka
-author: Segara Alam
+author:
 ---
 
 ## Marxisme sebagai Gagasan Impor

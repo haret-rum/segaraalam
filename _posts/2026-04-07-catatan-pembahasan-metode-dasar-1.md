@@ -5,7 +5,7 @@ mermaid: false
 toc: true
 pin: false
 title: Catatan Pembahasan Metode Dasar 1
-author: Segara Alam
+author:
 description:
 aliases: []
 tags:

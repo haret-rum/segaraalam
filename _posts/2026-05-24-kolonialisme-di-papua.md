@@ -12,7 +12,7 @@ tags:
 title: Kolonialisme di Papua
 date: 2026-05-24
 reference-section-title: Daftar Pustaka
-author: Segara Alam
+author:
 ---
 
 Film yang disutradarai Dandhy Dwi Laksono dan Cypri Dale, "Pesta Babi: Kolonialisme di Zaman Kita" baru-baru ini viral dan didiskusikan dimana-mana, utamanya di wilayah perkotaan. Diskusi ini bahkan beberapa kali dilarang dan dibubarkan secara paksa di beberapa wilayah.

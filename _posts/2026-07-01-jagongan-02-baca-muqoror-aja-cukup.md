@@ -10,7 +10,7 @@ tags:
   - jagongan
   - kuliah
 date: 2026-07-01
-author: Segara Alam
+author:
 ---
 
 Kali ini kita ngobrol² soal "muqoror". Sebagai mahasiswa Al-Azhar, muqoror adalah buku acuan pembelajaran paling dasar untuk menuntaskan perkuliahan. Kendati pembelajaran tidak terbatas pada ruang-ruang kelas di kuliah, tapi ada semacam kecenderungan menempatkan muqoror kuliah sebagai sumber yang mencukupi dan jauh dari ‘kebutuhan’ kritik.   

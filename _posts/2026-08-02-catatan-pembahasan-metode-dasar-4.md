@@ -10,7 +10,7 @@ tags:
   - tadarrus
   - nazat
 date: 2026-08-02
-author: Segara Alam
+author:
 ---
 
 ## Dua faktor utama ”Situasi Historis”

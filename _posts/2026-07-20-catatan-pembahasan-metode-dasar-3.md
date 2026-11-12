@@ -10,7 +10,7 @@ tags:
   - tadarrus
   - nazat
 date: 2026-07-20
-author: Segara Alam
+author:
 ---
 
 Catatan ini dituliskan pada 20 Juli 2026.

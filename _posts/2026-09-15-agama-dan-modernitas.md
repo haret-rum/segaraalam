@@ -13,7 +13,7 @@ tags:
   - agama
   - modernitas
 date: 2026-09-15
-author: Segara Alam
+author:
 ---
 
 Kita kerap mengasumsikan terdapat dualitas dalam hal-ihwal. Misalnya, dalam perkembangan meresapnya modernitas, yang ibarat Muruwwah bak seekor naga berkepala sembilan yang memasuki seluruh penjuru kehidupan, kita kerap mengasumsikan bahwa terdapat mesin yang bekerja di baliknya berupa dualitas modern/tradisi, diri/lain, agama/sekuler, masa-lalu/masa-kini, dan seterusnya.

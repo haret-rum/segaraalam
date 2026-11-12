@@ -14,7 +14,7 @@ tags:
   - buku
   - kebudayaan
 date: 2026-10-09
-author: Segara Alam
+author:
 ---
 
 Buat saya, Bagian yang mengasyikkan dari mendiskusikan satu buku bersama adalah saling terbukanya ragam perspektif satu sama lain di dalam forum. Saya jadi memahami perspektif yang sebelumnya tidak saya tangkap. Saya jadi mengerti penekanan satu istilah yang sebelumnya saya lewatkan.

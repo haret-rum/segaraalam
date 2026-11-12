@@ -11,7 +11,7 @@ title: Momen yang Tepat untuk Pensiun sebagai Layouter
 description:
 tags: []
 date: 2026-11-09
-author: Segara Alam
+author:
 ---
 
 Sampai sekarang, saya tidak pernah membayangkan layouting buku akan menjadi hobi saya. Bagaimana mungkin suatu hal yang tidak saya sukai menjadi hobi?

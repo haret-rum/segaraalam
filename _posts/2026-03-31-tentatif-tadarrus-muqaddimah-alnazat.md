@@ -10,7 +10,7 @@ tags:
   - tadarrus
   - nazat
 date: 2026-03-31
-author: Segara Alam
+author:
 ---
 
 Pengantar tadarrus dapat ditilik di [[2026-03-16-panggilan-untuk-tadarrus-muqaddimah-alnazat|sini]].

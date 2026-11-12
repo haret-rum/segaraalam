@@ -10,7 +10,7 @@ tags:
   - jagongan
   - palestina
 date: 2026-05-16
-author: Segara Alam
+author:
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bqAV_cW_B8M" title="Jagongan 01: Nakba" loading="lazy" allowfullscreen></iframe>

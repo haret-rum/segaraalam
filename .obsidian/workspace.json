@@ -33,9 +33,22 @@
               "icon": "globe-2",
               "title": "Writing a New Post | Chirpy"
             }
+          },
+          {
+            "id": "93d52b5e3475fd41",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://segara-alam.my.id/posts/catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer/",
+                "title": "Catatan Investigasi Sejarah Filsafat Arab-Islam Kontemporer | Segara Alam",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Catatan Investigasi Sejarah Filsafat Arab-Islam Kontemporer | Segara Alam"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "514b6d8861d18df2",
+  "active": "ece8f91d3febebcd",
   "lastOpenFiles": [
     "Artikel.base",
     "_posts/2026-08-02-catatan-pembahasan-metode-dasar-4.md",

@@ -12,7 +12,7 @@ tags:
   - marxis
   - suriah
   - timurtengah
-author: Segara Alam
+author:
 ---
 
 Pemerintahan Suriah kini telah beralih di tangan pasukan Islam Fundamentalis, Hay’at al-Tahrir al-Syam (HTS). Bashar al-Assad mewariskan rakyat Suriah perekonomian yang hancur, struktur politik yang kacau balau dan geografi yang terpecah belah. HTS muncul sebagai kekuatan dominan pada minggu lalu dengan kemenangan yang singkat. Bertolak dari Aleppo, mereka dengan sekejap menguasai seluruh kota dan segera menjadi mimpi buruk bagi Al-Assad.

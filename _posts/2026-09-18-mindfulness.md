@@ -11,7 +11,7 @@ title: Mindfulness
 description: Beberapa hari lalu, Maudy Ayunda sempat viral karena membuat vlog sarapan dan berbicara panjang lebar tentang mindfulness.
 tags: []
 date: 2026-09-18
-author: Segara Alam
+author:
 ---
 
 Beberapa hari lalu, Maudy Ayunda sempat viral karena membuat vlog sarapan dan berbicara panjang lebar tentang mindfulness. Saya tidak sempat mengikuti banyak tentang itu di media sosial mana pun. Saya juga tidak menyimak betapa banyak pisuhan di X menanggapi video Maudy itu. Sekilas, yang saya simpulkan, Maudy berpesan untuk diet konsumsi berita demi menjaga kesehatan mental menghadapi berita buruk Indonesia yang bertubi-tubi. 
