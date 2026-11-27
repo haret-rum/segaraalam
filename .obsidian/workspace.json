@@ -11,27 +11,14 @@
             "id": "ece8f91d3febebcd",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Artikel.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-table",
-              "title": "Artikel"
-            }
-          },
-          {
-            "id": "b186345e072e603e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme.md",
+                "file": "_posts/2026-27-11-karhutla-sebagai-efek-dari-keretakan-metabolis.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme"
+              "title": "2026-27-11-karhutla-sebagai-efek-dari-keretakan-metabolis"
             }
           }
         ]
@@ -53,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,10 +191,14 @@
   },
   "active": "ece8f91d3febebcd",
   "lastOpenFiles": [
-    "_posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i.md",
-    "Artikel.base",
-    "_posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction.md",
+    "assets/img/posts/6a8fc296e7cad 1.jpg",
     "_posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme.md",
+    "_posts/2026-27-11-karhutla-sebagai-efek-dari-keretakan-metabolis.md",
+    "_site/assets/img/posts/2026-09-20-5.md",
+    "assets/img/posts/6a8fc296e7cad.jpg",
+    "Artikel.base",
+    "_posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i.md",
+    "_posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction.md",
     "assets/img/posts/2024-12-23-menyalami-prabowo-dan-gagal-paham-politik-kerakyatan-1787211408629.webp",
     "assets/img/posts/2024-12-16-refleksi-tentang-imperialisme-kekuatan-yang-memporak-porandakan-suriah-1787049252256.jpg",
     "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg",
@@ -217,8 +208,6 @@
     "_posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan.md",
     "assets/img/posts/naqd.jpg",
     "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303492.jpg",
-    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303490.jpg",
-    "assets/img/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303487.jpg",
     "_posts/2024-02-12-proto-materialisme-dialektika-historis-ibnu-khaldun.md",
     "_posts/2025-09-04-aksi-massa-dan-ormas-islam.md",
     "_posts/2025-08-07-biopik-dan-luka-yang-belum-pulih.md",
@@ -238,8 +227,6 @@
     "_posts/2026-09-30-hubungan-musykil-antara-mutsaqqaf-dan-kekuasaan.md",
     "_posts/2026-11-09-momen-yang-tepat-untuk-pensiun-sebagai-layouter.md",
     "_posts/2026-08-02-catatan-pembahasan-metode-dasar-4.md",
-    "_posts/2026-09-01-catatan-investigasi-sejarah-filsafat-arab-islam-kontemporer.md",
-    "_posts/2026-07-20-catatan-pembahasan-metode-dasar-3.md",
     "template"
   ]
 }
